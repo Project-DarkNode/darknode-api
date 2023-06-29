@@ -2,7 +2,7 @@
 
 DarkNode API is a Webhook API that you can run on your website created by the DarkNode team.
 
-# Example POST Request
+# Example POST Request in Python
 When a POST Request is made to the API it will post the information in the "Body" to your [Firebase Realtime Database](https://firebase.google.com/docs/database)
 ```
 import requests
