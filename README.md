@@ -8,7 +8,7 @@ When a POST Request is made to the API it will post the information in the "Body
 import requests
 import uuid
 
-url = "Your API URL"
+url = "https://YourApiUrl.com/api.php"
 
 # "id" is required by the API
 Body = {
